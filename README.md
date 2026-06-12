@@ -29,7 +29,7 @@ Este proyecto nace con dos objetivos:
 # Requisito: Python 3.14.0 instalado
 
 # Descargar el código
-wget https://raw.githubusercontent.com/juaortfas/calculadora_cientifica/main/calculadora_cientifica.py
+wget [https://raw.githubusercontent.com/juaortfas/calculadora_cientifica/main/calculadora_cientifica.py](https://github.com/juaortfas/calculado_cientifica.git)
 
 # Ejecutar
 python calculadora_cientifica.py
