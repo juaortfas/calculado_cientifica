@@ -4,7 +4,7 @@ Calculadora científica con interfaz gráfica, ideal para estudiantes que olvida
 
 ![Captura de la calculadora](screenshots/calculadora.png) <!-- Ahí veréis el resultado gráfico -->
 
-## 🎯 Motivación
+## Motivación
 
 Este proyecto nace con dos objetivos:
 1. **Practicar Python** (POO, event-driven programming, GUI)
