@@ -2,7 +2,7 @@
 
 Calculadora científica con interfaz gráfica, ideal para estudiantes que olvidaron su calculadora en casa.
 
-![Captura de la calculadora](screenshots/calculadora.png) <!-- Ahí veréis el resultado gráfico -->
+![Captura de la calculadora](calculadora.jpg) <!-- Ahí veréis el resultado gráfico -->
 
 ## Motivación
 
